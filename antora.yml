@@ -1,0 +1,6 @@
+name: egocircuit
+title: TODO Add name
+version: 1.0.0
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
